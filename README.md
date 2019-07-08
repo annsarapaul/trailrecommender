@@ -3,9 +3,10 @@ A recommendation system for trails in WA
 
 # Credits
 https://www.wta.org
+
 https://www.alltrails.com/
 
-Overview of steps
+# Overview of steps
 
 1. Parse all trails meta data to create an inventory
 2. Add attributes if needed - Distance from Seattle etc, weather on a given day, Level of hike etc..
